@@ -14,6 +14,7 @@
 
 using namespace Pinetime::Applications::Screens;
 
+// trigger ci
 WatchFaceTerminal::WatchFaceTerminal(Controllers::DateTime& dateTimeController,
                                      const Controllers::Battery& batteryController,
                                      const Controllers::Ble& bleController,
